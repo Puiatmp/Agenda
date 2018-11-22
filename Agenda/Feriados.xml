@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<Feriados>
+  <Feriado>
+    <Data>2018/01/01</Data>
+    <Motivo>Ano  novo</Motivo>
+  </Feriado>
+  <Feriado>
+    <Data>2018/02/13</Data>
+    <Motivo>Carnaval</Motivo>
+  </Feriado>
+  <Feriado>
+    <Data>2018/04/21</Data>
+    <Motivo>Tiradentes</Motivo>
+  </Feriado>
+  <Feriado>
+    <Data>2018/05/01</Data>
+    <Motivo>Dia do Trabalho</Motivo>
+  </Feriado>
+  <Feriado>
+    <Data>2018/09/07</Data>
+    <Motivo>Dia da Independencia</Motivo>
+  </Feriado>
+  <Feriado>
+    <Data>2018/10/12</Data>
+    <Motivo>Nossa Senhora Aparecida</Motivo>
+  </Feriado>
+  <Feriado>
+    <Data>2018/11/02</Data>
+    <Motivo>Finados</Motivo>
+  </Feriado>
+  <Feriado>
+    <Data>2018/11/15</Data>
+    <Motivo>Proclamacao da Republica</Motivo>
+  </Feriado>
+  <Feriado>
+    <Data>2018/12/25</Data>
+    <Motivo>Natal</Motivo>
+  </Feriado>
+</Feriados>
